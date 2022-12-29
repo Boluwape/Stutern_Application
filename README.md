@@ -1,5 +1,5 @@
 # Stutern_Application
-
+<img src="Stutern_Logo.png" width="400" height="400">
 # IBM HR Analytics Employee Attrition.
 <img src="IBMLogos.png" width="400" height="400">
 ### This projects covers key areas such as:
