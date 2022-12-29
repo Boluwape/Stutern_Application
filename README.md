@@ -2,7 +2,7 @@
 
 <img src="Stutern_Logo.png" width="300" height="300">
 
-# IBM HR Analytics Employee Attrition.
+## IBM HR Analytics Employee Attrition.
 
 <img src="IBMLogos.png" width="300" height="300">
 
@@ -13,8 +13,6 @@
 <li><a href="#Analysis">Analysis</a></li>
 <li><a href="#Visualization">Visualization</a></li>
 </ul>
-
-
 
 ### Task 
 ----
