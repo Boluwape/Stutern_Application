@@ -1,4 +1,4 @@
-# Stutern Application
+# Stutern
 
 <img src="Stutern_Logo.png" width="300" height="300">
 
